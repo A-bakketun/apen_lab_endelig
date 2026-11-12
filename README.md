@@ -16,6 +16,7 @@ https://youtu.be/TSVBZ_f4IL0
 
 ---
 hvordan spille spillet
+For å spille spillet må hoved mappen hete Story_of_alfred
 
 WASD er kontrollere
 GHJ kontrollerer dodge, dash og angrep (i den rekkefølgen)
