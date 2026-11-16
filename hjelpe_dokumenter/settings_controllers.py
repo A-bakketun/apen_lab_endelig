@@ -16,7 +16,7 @@ def main_menu_pressed(app):
         init_menus.settings_init(app)
     #stjålet fra https://stackoverflow.com/questions/73663/how-do-i-terminate-a-script
     if app.menu_selector == 2:
-        sys.exit()
+        quit(app)
 
     app.menu_selector = 0
     app.menu_selector_x = 0
