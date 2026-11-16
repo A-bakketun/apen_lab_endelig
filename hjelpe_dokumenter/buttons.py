@@ -10,7 +10,7 @@ def main_menu_buttons(app):
     #lager main menu buttonsene
     app.main_menu_buttons =[[100 , 100, 300 , 300 , "Start"],
                             [100 , 320 , 300 , 520 , "Settings"],
-                            [100 , 540, 300 , 740, "Exit\nwithout save"]
+                            [100 , 540, 300 , 740, "Exit"]
                         ]   
 def map_buttons(app):
     #lager map buttonsene
